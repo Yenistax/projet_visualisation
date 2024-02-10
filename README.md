@@ -39,3 +39,12 @@ Présentation des différentes pages et graphiques
     ...
 
 histoire à finir
+
+## Faire tourner le tableau de bord
+
+    pip install streamlit
+    streamlit run main.py
+
+Les différentes pages se trouvent dans le dossier pages
+
+[Voici la documentation de Streamlit](https://docs.streamlit.io/)
