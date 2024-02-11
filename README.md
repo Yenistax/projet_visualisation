@@ -4,11 +4,11 @@ Levrault Damien, Nunes Théo, Marcier-Tallet Yanis, Bibard Yann
 
 ## Qu'est ce que la dataviz ?
 
-La dataviz sont le méthodes permettant de représenter de la donnée exploitable et interprétable de manière graphique et surtout visuelle afin de la traiter.
+La dataviz est l'ensemble des méthodes permettant de représenter de la donnée exploitable et interprétable de manière graphique et surtout visuelle afin de la traiter.
 
 ## Pour ce travail
 
-Un tableau de bord doit être construit avec des éléments graphiques mettant en valeur la donné / les données que nous avons choisi.
+Un tableau de bord doit être construit avec des éléments graphiques mettant en valeur la donnée / les données que nous avons choisi.
 
 ### Les données
 
@@ -28,11 +28,11 @@ Grâce à ces données, nous allons essayer de montrer les corrélations :
 
 Imaginons que nous organisons une campagne publicataire pour la sécurité routière.
 
-    Bonjour à toutes et à tous, comme vous le savez, même si les véhicules d'aujourd'hui sont de plus en plus preformants, un trop grand nombre d'accidents sont signalés et un trop grand nombre de personnes décèdent sur les routes.
+Bonjour à toutes et à tous, comme vous le savez, même si les véhicules d'aujourd'hui sont de plus en plus performants, un trop grand nombre d'accidents sont signalés et un trop grand nombre de personnes décède sur les routes.
 
 Après une brève introduction non exhaustive, on commence à présenter le tableau de bord.
 
-    Voici un tableau de bord qui présente les accidents sur les routes de France entre 2018 et 2022 inclu. Grace a ce tableau de bord, la prochaine campagne de prévention pourra peut-être être amélioré.
+Voici un tableau de bord qui présente les accidents sur les routes de France entre 2018 et 2022 inclu. Grâce à ce tableau de bord, la prochaine campagne de prévention pourra peut-être être améliorée.
 
 Présentation des différentes pages et graphiques
 

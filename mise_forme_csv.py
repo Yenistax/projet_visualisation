@@ -190,7 +190,7 @@ for a in annees:
     #df.to_csv(f"./csv/tri/df-{a}.csv", index=False)
 
 #sauvegarde du dataframe final
-df_final = df_final.drop(columns=["id_vehicule_y", "vma", "com", "adr", "v1", "v2", "circ", "nbv", "vosp", "prof", "pr", "pr1", "plan", "lartpc", "larrout", "situ", "id_vehicule_x", "num_veh_x", "senc", "obs", "obsm", "choc", "manv", "motor", "occutc", "place", "trajet", "secu1", "secu2", "secu3", "locp", "actp", "etatp", "num_veh_y", "id_usager"])
+df_final = df_final.drop(columns=["id_vehicule_y", "env1", "infra", "vma", "com", "adr", "v1", "v2", "circ", "nbv", "vosp", "prof", "pr", "pr1", "plan", "lartpc", "larrout", "situ", "id_vehicule_x", "num_veh_x", "senc", "obs", "obsm", "choc", "manv", "motor", "occutc", "place", "trajet", "secu1", "secu2", "secu3", "locp", "actp", "etatp", "num_veh_y", "id_usager"])
     
 df_final = df_final.drop_duplicates(subset=df_final.columns[:-1])
 df_final.to_csv("./csv/tri/df_final.csv", index=False)
